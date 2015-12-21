@@ -1,2 +1,4 @@
 # learn-angular
-Angular 1.x
+
+Learn Angular 1.x
+
